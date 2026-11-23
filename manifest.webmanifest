@@ -1,0 +1,28 @@
+{
+ "name": "BENTUK3D – Bentuk Geometri 3D",
+ "short_name": "BENTUK3D",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#061413",
+ "theme_color": "#061413",
+ "lang": "ms",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icons/logo.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
